@@ -94,7 +94,7 @@ h6 {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  animation: animate-preloader 1s linear infinite;
+  animation: animate-preloader 0.5s linear infinite;
 }
 
 @keyframes animate-preloader {
@@ -448,7 +448,7 @@ h6 {
 
 #hero h2 {
   color: rgba(255, 255, 255, 0.9);
-  margin: 10px 0 0 0;
+  margin: 0 0 15px 0;
   font-size: 24px;
 }
 
